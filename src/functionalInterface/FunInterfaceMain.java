@@ -1,7 +1,6 @@
 package functionalInterface;
 
 public class FunInterfaceMain {
-
     static FunInterfaceEx fun = new FunInterfaceEx();
     public static void main(String[] args) {
 //        useMyFunctionalInterface();
